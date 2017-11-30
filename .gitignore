@@ -1,0 +1,33 @@
+build/
+dist/
+env/
+MANIFEST
+doc/build/*
+logs/*
+tests
+sopel.wiki/*
+sopel.egg-info/*
+*.db
+*.pyc
+*.pyo
+*.txt
+*~
+*.rpm
+*.spec
+.*.sw*
+.pid-*
+
+# IntelliJ idea
+.idea
+*.iml
+
+# Eclipse/PyDev
+.settings
+.project
+.pydevproject
+
+.cache
+.coverage
+
+# macOS
+*.DS_Store
